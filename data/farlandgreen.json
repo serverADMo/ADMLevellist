@@ -8,11 +8,9 @@
     "percentToQualify": "40",
     "password": "46290",
     "records": [
-        {
             "user": "snowninja6861",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 240
-        },
+            "hz": 240,
     ]
 }
